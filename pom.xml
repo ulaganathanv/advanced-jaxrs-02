@@ -2,10 +2,10 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.mypackage</groupId>
-	<artifactId>advanced-jaxrs-02</artifactId>
+	<artifactId>jaxrs-resource-lifecycle</artifactId>
 	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>advanced-jaxrs-02 Maven Webapp</name>
+	<name>jaxrs-resource-lifecycle Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 	
 	<dependencies>
@@ -22,7 +22,7 @@
 	</dependencies>
 	
 	<build>
-		<finalName>advanced-jaxrs-02</finalName>
+		<finalName>jaxrs-resource-lifecycle</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
